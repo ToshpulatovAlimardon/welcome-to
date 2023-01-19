@@ -1,0 +1,41 @@
+/* All */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Body */
+body {
+    background-color: #4F696A;
+    font-family: 'Libre Baskerville', serif;
+}
+/* Welcome box */
+.welcome-box {
+    width: 500px;
+    margin: 50px auto;
+    background-color: #102020;
+    text-align: center;
+    padding: 40px 50px;
+    color: rgb(222, 222, 222);
+    text-transform: uppercase;
+}
+    .welcome-box h2 {
+        font-size: 36px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .welcome-box img {
+        margin-bottom: 5px;
+        width: 100px;
+    }
+    .welcome-box span {
+        display: block;
+        font-size: 10px;
+        font-weight: 400;
+        margin-bottom: 30px;
+    }
+    .welcome-box h3 {
+        font-size: 20px;
+        font-weight: 400;
+        padding: 0 70px;
+    }
